@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aISHWARYsINHA
+- 👋 Hi, I’m @ostrich2635
 - 👀 I’m interested in chess and coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects on AI
